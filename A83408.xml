@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance and declaration of the Lords and Commons assembled in Parliament. Manifesting that all such persons as shall upon any pretence whatsoever assist His Majesty in this warre, with horse, armes, plate or money, shall be held and accounted traytors to His Majesty, the Parliament, and the Kingdome. Likewise two orders of the Lords and Commons assembled in Parliament, for the ordering of the souldiers under the Earle of Essex. Also a letter sent to a member of the House of Commons, concerning divers passages which hath lately hapned in the county of Hamp-shire. Ordered by the Lords and Commons, that these particulars be forthwith printed and published, Io. Browne, Cler. Parl. Hen, Elsing, Cler. D. Com</title>
+            <title>Proceedings. 1642-08-20</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83408</idno><idno type="EEBO-CITATION">99899975</idno>
+  <idno type="VID">132677</idno>
+  <idno type="EEBO-PROQUEST">2248514849</idno>
+  
+            <idno type="STC">Wing E2217</idno>
+            <idno type="STC">ESTC R200802</idno>
+            <idno type="PROQUEST">99899975</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99899975e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83408)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132677)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2498:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance and declaration of the Lords and Commons assembled in Parliament. Manifesting that all such persons as shall upon any pretence whatsoever assist His Majesty in this warre, with horse, armes, plate or money, shall be held and accounted traytors to His Majesty, the Parliament, and the Kingdome. Likewise two orders of the Lords and Commons assembled in Parliament, for the ordering of the souldiers under the Earle of Essex. Also a letter sent to a member of the House of Commons, concerning divers passages which hath lately hapned in the county of Hamp-shire. Ordered by the Lords and Commons, that these particulars be forthwith printed and published, Io. Browne, Cler. Parl. Hen, Elsing, Cler. D. Com</title>
+                  <title>Proceedings. 1642-08-20</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Tomlingson,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at head of title: August 20.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:132677:1"/>
+            <p>
+               <hi>August</hi> 20. A Remonstrance and DECLARATION Of the Lords and Commons Assem<g ref="char:EOLhyphen"/>bled in <hi>Parliament.</hi> Manifesting that all such Per<g ref="char:EOLhyphen"/>sons as shall upon any pretence whatsoe<g ref="char:EOLhyphen"/>ver assist His Majesty in this Warre, with Horse, Armes, Plate or Money, shall be held and accounted Traytors to His Majesty, the <hi>Parliament,</hi> and the Kingdome. Likewise two Orders of the <hi>Lords</hi> and <hi>Commons</hi> assembled in <hi>Parliament,</hi> for the orde<g ref="char:EOLhyphen"/>ring of the Souldiers under the Earle of Essex. Also a <hi>Letter</hi> sent to a Member of the House of Commons, concerning divers passages which hath lately hapned in the County of Hamp-shire</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>Ordered by the Lords and Commons, that these particulars be forth<g ref="char:EOLhyphen"/>with printed and plblished.</p>
+                        <closer>
+                           <signed>
+                              <list>
+                                 <item>Io. Browne, Cler. Parl.</item>
+                                 <item>Hen, Elsing, Cler. D. Com.</item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Printed for <hi>George Tomlingson.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="remonstrance">
+            <pb facs="tcp:132677:2"/>
+            <pb n="1" facs="tcp:132677:2"/>
+            <head>A Remonstrance, or Declaration of the Lords and Commons Assembled in PARLIAMENT.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the King, seduced by wicked Counsell, doth make Warre against His Parliament and people; And for the promoting of that War, divers Forces both of Horse and Foote have bin, and are levied and raised by severall per<g ref="char:EOLhyphen"/>sons, and His Majesties good Subjects are most cruelly rob<g ref="char:EOLhyphen"/>bed, spoyled, and slaine.</p>
+            <p>To the end that no man may be misled through Ignorance, the Lords and Commons in Parliament declare, That all such persons as shall, upon any pretence whatsoever, assist his Majesty in this war, with Horse, Arms, Plate or Money, are Traytors to his Majesty, the Parliament and the Kingdome, and shall be brought to condigne punishment for so high an offence.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>Ordered by the Lords and Commons in Parliament, that this Declaration be forthwith printed and pub<gap reason="illegible" resp="#oxf" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ished.</p>
+                        <closer>
+                           <signed>Hen Elsinge, <gap reason="illegible" resp="#oxf" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <div type="orders">
+            <head>Orders of the Lords and Commons assembled in Parliament, For the Regulating of those Souldiers that are gone, and are to goe, under the Command of his Excellency, <hi>Robert</hi> Earle of <hi>Essex,</hi> Lord Generall for this Expedition.</head>
+            <div type="order">
+               <p>IT is this day Ordered by the Lords and Commons in Parliament assembled, that the severall Lord Lieutenants appointed by Parliament, their Deputy Lieutenants, the Iu<g ref="char:EOLhyphen"/>stices of the Peace, and other His Majesties Officers within the Kingdome of England and Dominion of Wales, shall take speciall care to prevent and suppresse all Ryots, Tu<g ref="char:EOLhyphen"/>mults,
+<pb n="2" facs="tcp:132677:3"/> breaking into or Robbing houses, breaking into Chur<g ref="char:EOLhyphen"/>ches, taking away the Goods of any person, or taking of Victualls, without due payment for the same, and to take and apprehend all such person or persons as shall doe or commit any such Out-rages as aforesaid, and to proceede against them according to Law. And it is further Ordered, that the Commanders and severall Officers, shall give their best assistance for the apprehension and punishment of all such persons which shall be found guilty of the misdemea<g ref="char:EOLhyphen"/>nors aforesaid.</p>
+            </div>
+            <div type="order">
+               <opener>
+                  <dateline>
+                     <date>Die Iovis. August 18. 1642.</date>
+                  </dateline>
+               </opener>
+               <p>WHereas there have been diverse Complaints made unto us of many disorders committed by the Soul<g ref="char:EOLhyphen"/>diers in their marching, and in such places wherein they have bin quartered or Billitted, which disorders (as is infor<g ref="char:EOLhyphen"/>med) have bin partly occasioned by the neglect of their Officers to goe along with them and conduct them: It is therefore Ordered by the Lords and Commons Assembled in Parliament, that the Lord Generall be desired to give Command to all his Officers, that they take care to attend according to the Duty of their severall places, that the Soul<g ref="char:EOLhyphen"/>diers thereby may be hereafter kept from stragling up and downe the Countries: And to that end to lay his Com<g ref="char:EOLhyphen"/>mand upon the Officers of each Company, both in the Marching, Quartering, and Billetting, to be in Person a<g ref="char:EOLhyphen"/>mongst the Souldiers themselves, to prevent any disorders whatsoever, and punish such as shall offend.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="license" subtype="order_to_print">
+                           <p>Ordered by the Lords and Commons assembled in Par<g ref="char:EOLhyphen"/>liament, that these Orders be forthwith printed and pub<g ref="char:EOLhyphen"/>lished.</p>
+                           <closer>
+                              <signed>Iohn Browne Cleric. Parliamentorum.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </div>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:132677:3"/>
+            <head>The Coppy of a Letter FROM <hi>PORTSMOVTH.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Sent you a letter by the foot-post, which I hope came to your hands on last Satterday, where<g ref="char:EOLhyphen"/>in was contained all or most part of Ports<g ref="char:EOLhyphen"/>mouth newes, and now I herein send you all or most of what hath happened since therea<g ref="char:EOLhyphen"/>bouts. The Colonell having caused the bridg cald <hi>Portbridg</hi> 3 miles from <hi>Portsmouth</hi> entring into the Isle of <hi>Portsea,</hi> (in which <hi>Portsmouth</hi> stands) to be made secure with a frame of timber work very strong, to hinder all from pasing that way but whom he pleased, and having built a little fort or buswark of earth a little within that Bridge, and planted four pieces of Ordnance there to defend the Bridge, and ha<g ref="char:EOLhyphen"/>ving placed 10 or 12 horsemen to watch there day and night, did on Wednesday last cary back to Portsmouth 3 of his Ordnance, and the fourth also about a mile, but the wheels broke, so thhat he was faine to leave that piece in the high way, all which he did for feare the Troopers which came from London, would by force or some stratagem get them away, and then make use of them to offend the Colo<g ref="char:EOLhyphen"/>nell: yet when the pieces were gone, he still kept horsemen day and night at the Fort and the timber worke upon the
+<pb n="4" facs="tcp:132677:4"/> Bridge, to secure it <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and all Wednesday, Thurs<g ref="char:EOLhyphen"/>day and Friday <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of cattell, sheep, and swine in the fruitfull Isle of P<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to be brought to Portsmouth <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, whether they were <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or loane, to bee all killed and salted up, and caused every house in that Isle to be searched and all manner of provisions to be taken away from the owners, as corne▪ meale, flower, beefe, bacon, bread, bu<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter, cheese, egg<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and all their Poultry and ducks not leaving halfe loaves of bread, nor pieces of bread, nor pieces of cheese, and drove away all Cattell whatsoever, to the great terrour of all the people, especially women and children, forcing poore and rich to come away, and beg a<g ref="char:EOLhyphen"/>bout for bread to keepe them alive, and hee made such men as he could finde, helpe to drive their own cattell and carry their own provisions into Portsmouth, and then kept many of them there by force; but the Kings ships as soone as they heard of these cruell intentions, landed some men at the East side of the Island, and two peices of Ordnance, and thereby kept off the horsemen, whilst the ship-men g<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t ever many women and children into Hayling Island, and about 100 cattell, and about 200 sheep, they got ropes over cattels heads, and made them swim over after boats: Upon Friday last in the afternoon, I went purposely to Portsdown, to see and heare what I could, at which place all this was credibly told me, and I then went as neer the Fort as I durst, which was dangerous to be fetcht in by the horsemen which guar<g ref="char:EOLhyphen"/>ded it, in regard all the troopers were then in Havant Town &amp; in Southwick, 4 miles distant where they lay, and came not abroad all that afternoon, by reason of the extraordinary rain which happened that afternoon: if the weather, had beene faire, as I was told in the presence of the Counsell of <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in Southwick, the Troopers had attempted to have taken the Fort that afternoon, and then I had seen it; but in the night time, that night some Troopers went down to the Fort, and were troubled to get down the timber worke, it being so strong, and whilst they were getting it downe the horsemen rode all away from the Fort, and the Troopers after them, but could take but one of the men, and two horses, so as
+<pb n="5" facs="tcp:132677:4"/> now the Troopers have the <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and have <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> there four pie<g ref="char:EOLhyphen"/>ces of Ordnance, and block'd up that passage, so as the Co<g ref="char:EOLhyphen"/>lonell and his company are all within the walls of Ports<g ref="char:EOLhyphen"/>mouth as it were in a pound, not daring to encounter the Troopers; Although they last Saturday went almost to the town Gates to try if any dared to come forth to them, the Colonell sent our two piece of Ordnance charged with mus<g ref="char:EOLhyphen"/>quet bullets, and two gunners to guard the piece with the broken wheel, that the Troopers might not get it away: But on Saturday in the afternoon, a valiant Trooper alone ad<g ref="char:EOLhyphen"/>ventured to go neer them, and cunningly got on the backside of the men, who could not sudainly turn about both or one of the pieces, so as the Trooper shot of<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Carbine at one of them with a brace of bullets, and spoild his running away, for he fell down dead. I beleeve that this day they will at<g ref="char:EOLhyphen"/>tempt to take a Castle neer <hi>Portsmouth</hi> called <hi>Southsea</hi> Ca<g ref="char:EOLhyphen"/>stle, halfe a mile from <hi>Portsmouth,</hi> and make no question to take it, and then to make use of it to shoot into <hi>Portsmouth.</hi> Mr. <hi>Lukener,</hi> Mr. <hi>Bellingham, Christopher Bird,</hi> and o<g ref="char:EOLhyphen"/>thers of the County of <hi>Suffolke,</hi> I beleeve wish they were at <hi>Chichester</hi> againe, every night some of <hi>Portsmouth</hi> Soul<g ref="char:EOLhyphen"/>diers and gunners get away down the walls and come to the Troopers, utterly drinking the Colonell's cause and usage of the inhabitants of <hi>Portsea</hi> Island, by taking away their cat<g ref="char:EOLhyphen"/>tel and provisions, &amp;c. And yet scorn to be thought cowards, for they offer to go in the forefront, &amp; in most danger w<seg rend="sup">th</seg> the Troopers in any service whatsoever. Since <hi>Chichester</hi> men came to <hi>Portsmouth</hi> there hath bin harder usage of people by the Colonell and his company then before, &amp; some thinke by their or some of their devises, a young woman in Ports<g ref="char:EOLhyphen"/>mouth being great with childe, who got leave to come last Friday to come to Portsmouth, and whom I met by the way, reports; that one of <hi>Chichester</hi> men, but not Mr. Re<g ref="char:EOLhyphen"/>corder <hi>Lukener,</hi> nor Mr. <hi>Bellingham,</hi> said to her that hee would not have her goe, because if the Town should bee so put to it; as to want victuals, then that in her belly would eat as sweet as a young sucking pig, by which we may gues that theey are inclinable to shew as much mercy as the Re<g ref="char:EOLhyphen"/>bbels
+<pb n="6" facs="tcp:132677:5"/> in <hi>Ireland,</hi> but I hope that God will prevent all their wicked purposes. The Troopers I beleeve resolve to banish all feare of danger, and with in fewer dayes, though with losse of men, to adventure to scale the Walls, and take the Town, and prevent the doing of any more mischiefe by them in the Town to the poor Inhabitants, or any others there is no great strenth in the Town of men, and but 80 or 90 hor<g ref="char:EOLhyphen"/>ses, there being about 240 horses, Troopers, and 500 foot by the Parliaments directions; but the Town is extraordi<g ref="char:EOLhyphen"/>narily well provided with powder, and shot, and dyet, by reason of the fetching in so much from the Inhabitants, there was a horse and a man taken on Saturday last about five of the Clocke at Havant going to Portsmouth with a suit of cloaths for one Mr. <hi>Bellingham</hi> in Portsmouth, but not <hi>Bellingham</hi> of <hi>Chichester,</hi> yet his kinsman, in which cloaths between the outside and inside were sowed up 10. Letters; and about that time our Troopess took a man, and an horse, and severall Leters going out of Portsmouth from the Lord <hi>Wentworth</hi> there, &amp; divers other Letters are taken, so as the bottome of their plotsare I hope discovered: This mor<g ref="char:EOLhyphen"/>ning one of the Isle of Wight was with me, and told me: All their people there stand right for the King and Parli<g ref="char:EOLhyphen"/>ament, except the Captains of their Castles, and some of the Gentry; one Sir <hi>Robert Dalington</hi> there would have sent over much corne to Portsmouth, but waprevented by M. <hi>Bunkley</hi> a Iustice of Peace there who stands very right for the King &amp; Parliament; ther is in the Island much fear of the Captains of the Castles, whether they will prove right or not; they are such men as Colonell <hi>Goring</hi> is, the people are in great feare of them, and wish that the Earle of <hi>Pembrooke</hi> were come, and that they might muster, &amp;c.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>Ordered that this Letter shall be forthwith printed and published.</p>
+                        <closer>
+                           <signed>H. Elsigne, Cler. Parl. D Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
